@@ -11,6 +11,8 @@
 #include <primitives/block.h>
 #include <protocol.h>
 
+#include <pow.h>
+
 #include <memory>
 #include <vector>
 
